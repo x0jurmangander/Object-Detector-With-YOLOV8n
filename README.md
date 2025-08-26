@@ -99,6 +99,6 @@ pip install ultralytics opencv-python numpy
 
 ## 📄 License
 
-MIT License – free to use, modify, and distribute.
+Creative Commons Zero v1.0 Universal License – free to use, modify, and distribute.
 
 ---
